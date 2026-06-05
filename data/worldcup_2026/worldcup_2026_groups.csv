@@ -1,0 +1,49 @@
+group,team_slot,team,is_host_team,host_country_if_host,first_match_id
+A,A1,South Africa,False,,1
+A,A2,Mexico,True,Mexico,1
+A,A3,Czech Republic,False,,2
+A,A4,South Korea,False,,2
+B,B1,Bosnia and Herzegovina,False,,3
+B,B2,Canada,True,Canada,3
+B,B3,Switzerland,False,,6
+B,B4,Qatar,False,,6
+C,C1,Morocco,False,,7
+C,C2,Brazil,False,,7
+C,C3,Scotland,False,,8
+C,C4,Haiti,False,,8
+D,D1,Paraguay,False,,4
+D,D2,USA,True,USA,4
+D,D3,Turkey,False,,5
+D,D4,Australia,False,,5
+E,E1,Curaçao,False,,9
+E,E2,Germany,False,,9
+E,E3,Ecuador,False,,11
+E,E4,Côte d'Ivoire,False,,11
+F,F1,Japan,False,,10
+F,F2,Netherlands,False,,10
+F,F3,Tunisia,False,,12
+F,F4,Sweden,False,,12
+G,G1,Egypt,False,,14
+G,G2,Belgium,False,,14
+G,G3,New Zealand,False,,16
+G,G4,Iran,False,,16
+H,H1,Cabo Verde,False,,13
+H,H2,Spain,False,,13
+H,H3,Uruguay,False,,15
+H,H4,Saudi Arabia,False,,15
+I,I1,Senegal,False,,18
+I,I2,France,False,,18
+I,I3,Norway,False,,19
+I,I4,Iraq,False,,19
+J,J1,Jordan,False,,17
+J,J2,Austria,False,,17
+J,J3,Algeria,False,,20
+J,J4,Argentina,False,,20
+K,K1,DR Congo,False,,21
+K,K2,Portugal,False,,21
+K,K3,Colombia,False,,24
+K,K4,Uzbekistan,False,,24
+L,L1,Croatia,False,,22
+L,L2,England,False,,22
+L,L3,Panama,False,,23
+L,L4,Ghana,False,,23
