@@ -2,3 +2,10 @@
 __pycache__/
 *.pyc
 *.zip
+
+*_metadata.json
+source_metadata.json
+
+data/raw/
+data/processed/
+data/modeling/
