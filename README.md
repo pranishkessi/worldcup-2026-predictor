@@ -775,8 +775,22 @@ The model artifacts were saved with scikit-learn 1.8.0. Newer versions may still
 
 ---
 
-## Suggested project description
+## Streamlit dashboar
 
 ```text
-A Monte Carlo FIFA World Cup 2026 prediction simulator using historical international results, Elo-style ratings, FIFA rankings, recent form, confederation strength, tournament experience, head-to-head history, calibrated probability modelling, and full-tournament bracket simulation.
+This project includes an interactive Streamlit dashboard for exploring the FIFA World Cup 2026 simulation results.
+
+Dashboard file:
+Main dashboard features:
+
+overview of the 10,000-run tournament simulation
+top champion probabilities
+group-stage match predictor
+dependent opponent selection for valid group-stage fixtures
+group explorer with teams and fixtures
+team profile page
+two-team tournament-chance comparison
+group finish probabilities
+knockout matchup probabilities
+GitHub and Kaggle project links
 ```
